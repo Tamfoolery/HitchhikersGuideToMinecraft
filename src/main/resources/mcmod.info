@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "h2mc",
+        "name": "Hitchhiker's Guide To Minecraft",
+        "description": "Never enter Minecraft without it.",
+        "version": "0.1.0",
+        "mcversion": "1.7.10",
+        "url": "http://minecraft.giftedpineapples.com",
+        "updateUrl": "",
+        "authorList": [
+            "Tamfoolery"
+        ],
+        "credits": "Douglas Adams",
+        "logoFile": "assets/h2mc/textures/logo.png",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

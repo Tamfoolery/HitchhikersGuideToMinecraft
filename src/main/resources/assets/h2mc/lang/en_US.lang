@@ -1,0 +1,24 @@
+# Item Localizations
+item.h2mc:theGuide.name=The Guide
+item.h2mc:towel.towelWhite.name=White Towel
+item.h2mc:towel.towelOrange.name=Orange Towel
+item.h2mc:towel.towelMagenta.name=Magenta Towel
+item.h2mc:towel.towelLightBlue.name=Light Blue Towel
+item.h2mc:towel.towelYellow.name=Yellow Towel
+item.h2mc:towel.towelLime.name=Lime Towel
+item.h2mc:towel.towelPink.name=Pink Towel
+item.h2mc:towel.towelGray.name=Gray Towel
+item.h2mc:towel.towelLightGray.name=Light Gray Towel
+item.h2mc:towel.towelCyan.name=Cyan Towel
+item.h2mc:towel.towelPurple.name=Purple Towel
+item.h2mc:towel.towelBlue.name=Blue Towel
+item.h2mc:towel.towelBrown.name=Brown Towel
+item.h2mc:towel.towelGreen.name=Green Towel
+item.h2mc:towel.towelRed.name=Red Towel
+item.h2mc:towel.towelBlack.name=Black Towel
+
+# Tile Localizations
+tile.h2mc:towelBlock.name=Towel
+
+# Creative Tabs
+itemGroup.h2mc=Hitchhiker's Guide To Minecraft
