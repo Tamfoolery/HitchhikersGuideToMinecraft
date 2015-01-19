@@ -1,5 +1,7 @@
 # Hitchhiker's Guide To Minecraft
 
+**On Hiatus**
+
 ### Features
 - Whales falling from the sky
 - Bowls of Petunias falling from the sky
